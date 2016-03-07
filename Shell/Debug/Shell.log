@@ -1,3 +1,4 @@
-﻿  stdafx.cpp
-  Shell.cpp
-  Shell.vcxproj -> C:\Users\Sysadmin\Documents\Shell\Debug\Shell.exe
+﻿  Shell.cpp
+c:\users\sysadmin\documents\shell\shell\shell.cpp(107): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\sysadmin\documents\shell\shell\shell.cpp(120): warning C4101: 'dwWritten': unreferenced local variable
+LINK : fatal error LNK1168: cannot open C:\Users\Sysadmin\Documents\Shell\Debug\Shell.exe for writing
